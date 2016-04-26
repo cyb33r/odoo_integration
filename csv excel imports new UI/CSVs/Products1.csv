@@ -1,0 +1,500 @@
+external_id,categ_id/id,x_default_code,name,list_price,seller_ids/name/id,seller_ids/delay,seller_ids/min_qty
+|product_928|,|prod_cat_547|,|OX400|,|Extractive Low Concentration Oxygen Analzyer|,|4657.00|,|vendor_2|,|1|,||
+|product_929|,|prod_cat_813|,|DC402G|,|DUAL CELL CONDUCTIVITY CONVERTER|,|1706.00|,|vendor_2|,|1|,||
+|product_930|,|prod_cat_815|,|FF40|,|CONDUCTIVITY FLOW  ASSEMBLY  (For Large Bore Sensors)|,|0.00|,|vendor_2|,|1|,||
+|product_931|,|prod_cat_820|,|R/SC42|,|HIGH PRESSURE, HIGH TEMPERATURE CONDUCTIVITY SENSOR (2-ELECTRODE) PT1000 TEMPERATURE SENSOR|,|0.00|,|vendor_2|,|1|,||
+|product_932|,|prod_cat_824|,|SC4A|,|CONDUCTIVITY SENSOR|,|0.00|,|vendor_2|,|1|,||
+|product_933|,|prod_cat_539|,|GD40G|,|General Purpose Detector|,|7530.00|,|vendor_2|,|1|,||
+|product_934|,|prod_cat_539|,|GD40T|,|*FM Certified Explosion-Proof Detector|,|7826.00|,|vendor_2|,|1|,||
+|product_935|,|prod_cat_539|,|GD40V|,|CSA Gas Density Meter Detector|,|7826.00|,|vendor_2|,|1|,||
+|product_936|,|prod_cat_537|,|DM8C|,|LIQUID DENSITY CONVERTER|,|3316.00|,|vendor_2|,|1|,||
+|product_937|,|prod_cat_541|,|VD6D|,|LIQUID DENSITY DETECTOR - General Purpose Version|,|2561.00|,|vendor_2|,|1|,||
+|product_938|,|prod_cat_541|,|VD6DS|,|LIQUID DENSITY DETECTOR - Sanitary Applications (JIS)|,|2754.00|,|vendor_2|,|1|,||
+|product_939|,|prod_cat_541|,|VD6DF|,|LIQUID DENSITY DETECTOR - Explosion-Proof Version|,|3608.00|,|vendor_2|,|1|,||
+|product_940|,|prod_cat_890|,|DO402G|,|DISSOLVED OXYGEN CONVERTER|,|1517.00|,|vendor_2|,|1|,||
+|product_941|,|prod_cat_893|,|PB30|,|Floating Ball For DO With Universal Mounting|,|1571.00|,|vendor_2|,|1|,||
+|product_942|,|prod_cat_888|,|DO30G|,|Dissolved Oxygen Sensor|,|609.00|,|vendor_2|,|1|,||
+|product_943|,|prod_cat_891|,|FD30V27|,|IMMERSION HOLDER, PVC (For Use with D030 Sensor)|,|420.00|,|vendor_2|,|1|,||
+|product_944|,|prod_cat_836|,|ISC40G|,|General Purpose Inductive Conductivity Sensor|,|888.00|,|vendor_2|,|1|,||
+|product_945|,|prod_cat_836|,|ISC40S|,|Intrinsically Safe Inductive Conductivity Sensor|,|969.00|,|vendor_2|,|1|,||
+|product_946|,|prod_cat_833|,|ISC40FD|,|IMMERSION FITTING (For ISC40 GG Sensors Only)|,|511.00|,|vendor_2|,|1|,||
+|product_947|,|prod_cat_834|,|ISC40FF|,|FLOW THROUGH FITTING|,|0.00|,|vendor_2|,|1|,||
+|product_948|,|prod_cat_557|,,|See Below|,|0.00|,|vendor_2|,|1|,||
+|product_949|,|prod_cat_542|,,|MATERIAL REFERENCE CHART|,|0.00|,|vendor_2|,|1|,||
+|product_950|,|prod_cat_551|,|WZ|,|ZO21D WIRING - SIGNAL CABLE - High Temp Cable (FEP Jacket (Up to 390ºF)(200ºC))|,|0.00|,|vendor_2|,|1|,||
+|product_951|,|prod_cat_558|,|R/AC1|,|SINGLE CHANNEL AUTO CALIBRATION|,|1341.00|,|vendor_2|,|1|,||
+|product_952|,|prod_cat_544|,|AV550G|,|Averaging Zirconia Oxygen Converter|,|10765.00|,|vendor_2|,|1|,||
+|product_953|,|prod_cat_759|,|PH72|,|PORTABLE pH / ORP METER (NO SENSOR, Select below)|,|543.00|,|vendor_2|,|1|,||
+|product_954|,|prod_cat_745|,|PH202G|,|PH/ORP 2  Wire Transmitter General Purpose Versions|,|1458.00|,|vendor_2|,|1|,||
+|product_955|,|prod_cat_745|,|PH202S|,|PH/ORP 2  Wire Transmitter Intrinsically Safe Version|,|1625.00|,|vendor_2|,|1|,||
+|product_956|,|prod_cat_747|,|AFF20|,|FLOW THROUGH pH/ORP SENSOR|,|0.00|,|vendor_2|,|1|,||
+|product_957|,|prod_cat_749|,|AFS20|,|ON-LINE pH/ORP SENSOR|,|0.00|,|vendor_2|,|1|,||
+|product_958|,|prod_cat_746|,|AFD20|,|IMMERSION pH/ORP SENSOR|,|0.00|,|vendor_2|,|1|,||
+|product_959|,|prod_cat_750|,|FU20|,|Universal pH/ORP Sensor|,|350.00|,|vendor_2|,|1|,||
+|product_960|,|prod_cat_756|,|PH18|,|DIFFERENTIAL pH SENSOR|,|9149.00|,|vendor_2|,|1|,||
+|product_961|,|prod_cat_786|,,|SPARE PARTS|,|0.00|,|vendor_2|,|1|,||
+|product_962|,|prod_cat_580|,|202DI|,|RATE TOTALIZER PULSE INPUT|,|679.00|,|vendor_2|,|1|,||
+|product_963|,|prod_cat_579|,|212|,|STANDARD BTU COMPUTER|,|864.00|,|vendor_2|,|1|,||
+|product_964|,|prod_cat_581|,|415A|,|GAS AND STEAM COMPUTER (4-20 mA Temp)|,|1603.00|,|vendor_2|,|1|,||
+|product_965|,|prod_cat_581|,|415R|,|GAS AND STEAM COMPUTER (RTD Temp)|,|1638.00|,|vendor_2|,|1|,||
+|product_966|,|prod_cat_578|,|414A|,|BATCH CONTROLLER, ANALOG INPUT|,|1322.00|,|vendor_2|,|1|,||
+|product_967|,|prod_cat_578|,|414B|,|BATCH CONTROLLER, BASIC PULSE INPUT|,|1093.00|,|vendor_2|,|1|,||
+|product_968|,|prod_cat_652|,,|POWER SUPPLY|,|0.00|,|vendor_2|,|1|,||
+|product_969|,|prod_cat_655|,,|Transmitter mounting Surge Protector|,|0.00|,|vendor_2|,|1|,||
+|product_970|,|prod_cat_645|,,|NORGREN FILTER REGULATOR FOR USE WITH PK200|,|0.00|,|vendor_2|,|1|,||
+|product_971|,|prod_cat_654|,|TSE200|,|TSE200|,|133.00|,|vendor_2|,|1|,||
+|product_972|,|prod_cat_654|,|TSE300|,|TSE300|,|89.00|,|vendor_2|,|1|,||
+|product_973|,|prod_cat_654|,|TSD200|,|Series 200 Direct Imersion Platinum RTD (Wire Wound)|,|111.00|,|vendor_2|,|1|,||
+|product_974|,|prod_cat_654|,|TSD300|,|Series 300 Direct Imersion Platinum RTD (Thin Film)|,|66.00|,|vendor_2|,|1|,||
+|product_975|,|prod_cat_654|,|TSE100|,|Series 100 Thermocouple with Thermowell - THERMOCOUPLES - SPRING LOADED WITH WELL|,|56.00|,|vendor_2|,|1|,||
+|product_976|,|prod_cat_654|,|TSD100|,|Series 100 Direct Immersion Thermocouple|,|38.00|,|vendor_2|,|1|,||
+|product_977|,|prod_cat_659|,,|Certificates|,|0.00|,|vendor_2|,|1|,||
+|product_978|,|prod_cat_640|,|PK200|,|CURRENT TO PNEUMATIC|,|982.00|,|vendor_2|,|1|,||
+|product_979|,|prod_cat_585|,|EJA110A|,|Differential Pressure Transmitter|,|1662.00|,|vendor_2|,|1|,||
+|product_980|,|prod_cat_587|,|EJA115|,|Low Flow Transmitter  [Style: S3]|,|2651.00|,|vendor_2|,|1|,||
+|product_981|,|prod_cat_589|,|EJA130A|,|Differential Pressure Transmitter|,|2130.00|,|vendor_2|,|1|,||
+|product_982|,|prod_cat_582|,|EJA120A|,|Differential Pressure Transmitter (Draft Applications)  (GS 01C21B03-00E)|,|2681.00|,|vendor_2|,|1|,||
+|product_983|,|prod_cat_596|,|EJA430A|,|Gauge Pressure Transmitter|,|1510.00|,|vendor_2|,|1|,||
+|product_984|,|prod_cat_598|,|EJA440A|,|Guage Pressure Transmitter|,|2030.00|,|vendor_2|,|1|,||
+|product_985|,|prod_cat_594|,|EJA310A|,|Absolute Pressure Transmitter|,|1801.00|,|vendor_2|,|1|,||
+|product_986|,|prod_cat_611|,|EJA210A|,|Flange Mounted Differential Pressure Transmitter|,|2013.00|,|vendor_2|,|1|,||
+|product_987|,|prod_cat_613|,|EJA220A|,|Flange Mounted Differential Pressure Transmitter   (Extended Diaphragm)|,|2235.00|,|vendor_2|,|1|,||
+|product_988|,|prod_cat_617|,|EJA118N|,|Diaphragm Sealed Differential Pressure Transmitter (3-inch) [Style: S2]  (GS 01C22H01-00E)|,|4756.00|,|vendor_2|,|1|,||
+|product_989|,|prod_cat_620|,|EJA118Y|,|Diaphragm Sealed Differential Pressure Trasnmitter [Style: S2)  (GS 01C22H01-00E)|,|4756.00|,|vendor_2|,|1|,||
+|product_990|,|prod_cat_619|,|EJA118W|,|Differential Pressure Transmitter with Remote Seals   (Flush Diaphragm Type) [Style: S2]|,|3815.00|,|vendor_2|,|1|,||
+|product_991|,|prod_cat_622|,|EJA438N|,|Diaphragm Sealed Gauge Pressure Transmitter (3-inch) [Style: S2]  (GS 01C22J03-00E)|,|3084.00|,|vendor_2|,|1|,||
+|product_992|,|prod_cat_624|,|EJA438W|,|GAUGE PRESSURE TRANSMITTER WITH FLUSH DIAPHRAGM SEALS|,|2525.00|,|vendor_2|,|1|,||
+|product_993|,|prod_cat_632|,|BT200|,|Brain Protocol Handheld Terminal (GS 1C0A11-E)  Tokuchu required to purchase this product.|,|1224.00|,|vendor_2|,|1|,||
+|product_994|,|prod_cat_577|,,|Parts, Meters, Housings, Amps|,|0.00|,|vendor_2|,|1|,||
+|product_995|,|prod_cat_577|,,|Parts|,|0.00|,|vendor_2|,|1|,||
+|product_996|,|prod_cat_577|,,|Documents|,|0.00|,|vendor_2|,|1|,||
+|product_997|,|prod_cat_576|,,|Extended Warranty|,|0.00|,|vendor_2|,|1|,||
+|product_998|,|prod_cat_817|,|FS40|,|CONDUCTIVITY FLOW ASSEMBLY (For Large Bore Sensors)|,|0.00|,|vendor_2|,|1|,||
+|product_999|,|prod_cat_821|,|R/SC42|,|CONDUCTIVITY SENSOR (2-ELECTRODE) Pt 1000|,|0.00|,|vendor_2|,|1|,||
+|product_1000|,|prod_cat_822|,|R/SC42|,|Tri-clover Sensor (2-Electrode) Pt 1000|,|0.00|,|vendor_2|,|1|,||
+|product_1001|,|prod_cat_543|,|AC4|,|AUTOCALIBRATION UNIT 4 Channel System|,|3969.00|,|vendor_2|,|1|,||
+|product_1002|,|prod_cat_543|,|AC8|,|AUTOCALIBRATION UNIT 8 Channel System|,|5588.00|,|vendor_2|,|1|,||
+|product_1003|,|prod_cat_558|,|MC1|,|SINGLE CHANNEL MANUAL CALIBRATION|,|582.00|,|vendor_2|,|1|,||
+|product_1004|,|prod_cat_560|,,|SPARE PARTS|,|0.00|,|vendor_2|,|1|,||
+|product_1005|,|prod_cat_819|,|SC42|,|CONDUCTIVITY SENSOR  Pt 1000 Temperature Element|,|0.00|,|vendor_2|,|1|,||
+|product_1006|,|prod_cat_628|,|FLX|,|Flanged Extended  Diaphragm Seal (GS SLC21A0-02E-A)|,|743.00|,|vendor_2|,|1|,||
+|product_1007|,|prod_cat_628|,|FLG|,|Flush Flanged Diaphragm Seal (GS SLC21A0-02E-A)|,|428.00|,|vendor_2|,|1|,||
+|product_1008|,|prod_cat_628|,|FLR|,|Remote (Off-line) Flanged Diaphragm Seal (GS SLC21A0-02E-A)|,|200.00|,|vendor_2|,|1|,||
+|product_1009|,|prod_cat_628|,|PNK|,|Pancake Diaphragm Seal (GS SLC21A0-02E-A)|,|399.00|,|vendor_2|,|1|,||
+|product_1010|,|prod_cat_628|,|STC|,|Sanitary Triclamp|,|166.00|,|vendor_2|,|1|,||
+|product_1011|,|prod_cat_628|,|SNL|,|Sanitary In-line Triclamp|,|654.00|,|vendor_2|,|1|,||
+|product_1012|,|prod_cat_628|,|CBI|,|Cherry Burrel "I" Line|,|166.00|,|vendor_2|,|1|,||
+|product_1013|,|prod_cat_628|,|TSP|,|Tank Spud|,|726.00|,|vendor_2|,|1|,||
+|product_1014|,|prod_cat_628|,|THR|,|Threaded Diaphragm Seal (GS SLC21A0-02-A)|,|156.00|,|vendor_2|,|1|,||
+|product_1015|,|prod_cat_635|,|YTA110|,|Temperature Transmitter [Style: S3]|,|726.00|,|vendor_2|,|1|,||
+|product_1016|,|prod_cat_636|,|YTA310|,|Temperature Transmitter [Style: 3]|,|987.00|,|vendor_2|,|1|,||
+|product_1017|,|prod_cat_636|,|YTA320|,|Temperature Transmitter with Dual Sensor Input [Style: 3]|,|1141.00|,|vendor_2|,|1|,||
+|product_1018|,|prod_cat_637|,|YTA50|,|Temperature Transmitter (Head Mount Type) (GS 01C50C01-00E)|,|306.00|,|vendor_2|,|1|,||
+|product_1019|,|prod_cat_538|,|GD402G|,|General Purpose|,|4215.00|,|vendor_2|,|1|,||
+|product_1020|,|prod_cat_538|,|GD402T|,|FM Certified Explosion-proof|,|5436.00|,|vendor_2|,|1|,||
+|product_1021|,|prod_cat_538|,|GD402V|,|CSA Gas Density Meter Converter|,|5436.00|,|vendor_2|,|1|,||
+|product_1022|,|prod_cat_638|,|YTA70|,|Temperature Transmitter (Head Mount Type) (GS 01C50C03-00E)|,|565.00|,|vendor_2|,|1|,||
+|product_1023|,|prod_cat_671|,|253710|,|PZ4000 Mainframe, 100 V to 240 V AC 100KW/Channel|,|8095.00|,|vendor_2|,|1|,||
+|product_1024|,|prod_cat_670|,,|CURRENT AND POTENTIAL TRANSFORMERS|,|0.00|,|vendor_2|,|1|,||
+|product_1025|,|prod_cat_673|,,|Power Meter Shunts|,|0.00|,|vendor_2|,|1|,||
+|product_1026|,|prod_cat_708|,|7563|,|Digital Multi-Thermometer|,|0.00|,|vendor_2|,|1|,||
+|product_1027|,|prod_cat_710|,|2653|,|MT10 Mini-Manometer|,|1430.00|,|vendor_2|,|1|,||
+|product_1028|,|prod_cat_711|,|767401|,|MC100 Pneumatic Pressure Standard 25KPa|,|12720.00|,|vendor_2|,|1|,||
+|product_1029|,|prod_cat_711|,|767402|,|MC100 Pneumatic Pressure Standard 200KPa|,|12720.00|,|vendor_2|,|1|,||
+|product_1030|,|prod_cat_737|,|UT130|,|1/16 DIN Temperature Controller|,|213.00|,|vendor_2|,|1|,||
+|product_1031|,|prod_cat_738|,|UT150|,|1/16 DIN Temperature Controller|,|267.00|,|vendor_2|,|1|,||
+|product_1032|,|prod_cat_738|,|UT150L|,|1/16 DIN Temperature Controller|,|230.00|,|vendor_2|,|1|,||
+|product_1033|,|prod_cat_738|,|UT152|,|1/8 DIN Temperature Controller|,|325.00|,|vendor_2|,|1|,||
+|product_1034|,|prod_cat_738|,|UT155|,|1/4 DIN Temperature Controller|,|384.00|,|vendor_2|,|1|,||
+|product_1035|,|prod_cat_736|,|US1000|,|Single Loop Controller|,|1386.00|,|vendor_2|,|1|,||
+|product_1036|,|prod_cat_723|,|YS110|,|Standby Manual Station|,|1498.00|,|vendor_2|,|1|,||
+|product_1037|,|prod_cat_740|,,|ACCESSORIES & MANUALS|,|0.00|,|vendor_2|,|1|,||
+|product_1038|,|prod_cat_741|,,|UT/UP/UM PARTS|,|0.00|,|vendor_2|,|1|,||
+|product_1039|,|prod_cat_731|,|SIHN|,|SIHN Indicator (Direct Panel-Mount Type)|,|361.00|,|vendor_2|,|1|,||
+|product_1040|,|prod_cat_728|,|SHUP|,|Housing Kit|,|244.00|,|vendor_2|,|1|,||
+|product_1041|,|prod_cat_729|,,|SHUR CASE KIT|,|0.00|,|vendor_2|,|1|,||
+|product_1042|,|prod_cat_735|,|STED|,|EMF and RTD to Voltage Converters|,|854.00|,|vendor_2|,|1|,||
+|product_1043|,|prod_cat_734|,|SKYD|,|Alarm Kit|,|538.00|,|vendor_2|,|1|,||
+|product_1044|,|prod_cat_732|,|SIND|,|Integrator|,|1258.00|,|vendor_2|,|1|,||
+|product_1045|,|prod_cat_733|,|SISD|,|Isolator, One Input|,|620.00|,|vendor_2|,|1|,||
+|product_1046|,|prod_cat_727|,|SDBT|,|Distributor|,|310.00|,|vendor_2|,|1|,||
+|product_1047|,|prod_cat_799|,,|HAND HELD DIGITAL MULTIMETERS|,|0.00|,|vendor_2|,|1|,||
+|product_1048|,|prod_cat_800|,,|INSULATION TESTERS|,|0.00|,|vendor_2|,|1|,||
+|product_1049|,|prod_cat_794|,,|Digital Clamp-on Meters|,|0.00|,|vendor_2|,|1|,||
+|product_1050|,|prod_cat_789|,,|CALIBRATORS|,|0.00|,|vendor_2|,|1|,||
+|product_1051|,|prod_cat_795|,,|DIGITAL MULTI-THERMOMETERS|,|0.00|,|vendor_2|,|1|,||
+|product_1052|,|prod_cat_790|,,|COLORIMETERS|,|0.00|,|vendor_2|,|1|,||
+|product_1053|,|prod_cat_803|,|51011|,|DIGITAL LUX METER|,|1155.00|,|vendor_2|,|1|,||
+|product_1054|,|prod_cat_803|,|51012|,|DIGITAL LUX METER|,|1290.00|,|vendor_2|,|1|,||
+|product_1055|,|prod_cat_803|,|51021|,|DIGITAL LUX METER|,|2101.00|,|vendor_2|,|1|,||
+|product_1056|,|prod_cat_798|,,|GALVANOMETERS|,|0.00|,|vendor_2|,|1|,||
+|product_1057|,|prod_cat_796|,,|EARTH GROUND TESTERS AND POLYTESTERS|,|0.00|,|vendor_2|,|1|,||
+|product_1058|,|prod_cat_804|,,|PORTABLE STANDARDS|,|0.00|,|vendor_2|,|1|,||
+|product_1059|,|prod_cat_793|,,|DECADE BOXES AND STANDARD RESISTORS|,|0.00|,|vendor_2|,|1|,||
+|product_1060|,|prod_cat_801|,,|MISCELLANEOUS|,|0.00|,|vendor_2|,|1|,||
+|product_1061|,|prod_cat_788|,,|ACCESSORIES|,|0.00|,|vendor_2|,|1|,||
+|product_1062|,|prod_cat_739|,|SV DEMO|,|For Reps/Distributors (Internal Use ONLY)|,|215.00|,|vendor_2|,|1|,||
+|product_1063|,|prod_cat_739|,|4859SVP|,|Spec View Plus for Windows|,|1092.00|,|vendor_2|,|1|,||
+|product_1064|,|prod_cat_739|,|4859SVM3|,|Mini 3 Spec View Plus with /HR option|,|823.00|,|vendor_2|,|1|,||
+|product_1065|,|prod_cat_726|,|SDBS|,|Distributor|,|493.00|,|vendor_2|,|1|,||
+|product_1066|,|prod_cat_651|,|M4TPVIS/4/T|,|2-Valve Manifold; 1/2 inch FNPT x Flange   (Teflon Packing, 316SS Body, CS Bolting)|,|327.00|,|vendor_2|,|1|,||
+|product_1067|,|prod_cat_651|,|M4TPVIS/4/SG/T|,|2-Valve Manifold; 1/2 inch FNPT x Flange   (Teflon Packing, 316SS Body, CS Bolting, Sour Gas)|,|378.00|,|vendor_2|,|1|,||
+|product_1068|,|prod_cat_651|,|M4TPVIS/4/SSC/T|,|2-Valve Manifold; 1/2 inch FNPT x Flange   (Teflon Packing, 316SS Body, SS Bolting)|,|378.00|,|vendor_2|,|1|,||
+|product_1069|,|prod_cat_651|,|M4TPVIS/4/SG/SSC/T|,|2-Valve Manifold; 1/2 inch FNPT x Flange   (Teflon Packing, 316SS Body, SS Bolting, Sour Gas)|,|430.00|,|vendor_2|,|1|,||
+|product_1070|,|prod_cat_651|,|M4TPHPS/4/XP/T|,|2-Valve Manifold for Power; 1/2 inch FNPT x Flange   (Grafoil Packing, 316SS Body, CS Bolting)|,|371.00|,|vendor_2|,|1|,||
+|product_1071|,|prod_cat_651|,|M4TPHPS/4/XP/SG/T|,|2-Valve Manifold for Power; 1/2 inch FNPT x Flange   (Grafoil Packing, 316SS Body, CS Bolt, S. Gas)|,|443.00|,|vendor_2|,|1|,||
+|product_1072|,|prod_cat_651|,|M4APVIS/T|,|2-Valve Manifold; Flange x Flange   (Teflon Packing, 316SS Body, CS Bolting)|,|366.00|,|vendor_2|,|1|,||
+|product_1073|,|prod_cat_651|,|M4APVIS/SG/T|,|2-Valve Manifold; Flange x Flange   (Teflon Packing, 316SS Body, CS Bolting, Sour Gas)|,|391.00|,|vendor_2|,|1|,||
+|product_1074|,|prod_cat_713|,,|ACCESSORIES FOR OTHER INSTRUMENTS:|,|0.00|,|vendor_2|,|1|,||
+|product_1075|,|prod_cat_724|,,|.|,|0.00|,|vendor_2|,|1|,||
+|product_1076|,|prod_cat_715|,,|JUXTA F SERIES|,|0.00|,|vendor_2|,|1|,||
+|product_1077|,|prod_cat_716|,,|JUXTA W SERIES|,|0.00|,|vendor_2|,|1|,||
+|product_1078|,|prod_cat_717|,,|F & W SERIES|,|0.00|,|vendor_2|,|1|,||
+|product_1079|,|prod_cat_718|,|JHT200|,|Discontinued     -      Select VJ77 Software|,|0.00|,|vendor_2|,|1|,||
+|product_1080|,|prod_cat_719|,,|JUXTA P SERIES AND ACCESSORIES|,|0.00|,|vendor_2|,|1|,||
+|product_1081|,|prod_cat_720|,,|JUXTA AR SERIES|,|0.00|,|vendor_2|,|1|,||
+|product_1082|,|prod_cat_725|,|MTS|,|Mounting Kit|,|37.00|,|vendor_2|,|1|,||
+|product_1083|,|prod_cat_653|,|MLA|,|FIELD MTD LOOP INDICATOR (ANALOG)|,|286.00|,|vendor_2|,|1|,||
+|product_1084|,|prod_cat_653|,|MLD|,|FIELD MTD LOOP INDICATOR (DIGITAL)|,|366.00|,|vendor_2|,|1|,||
+|product_1085|,|prod_cat_540|,|GDW|,|Two Core, Double Shielded cable, both ends finished with cable pins|,|0.00|,|vendor_2|,|1|,||
+|product_1086|,|prod_cat_712|,,|PRICE LIST EXCEPT KITS|,|0.00|,|vendor_2|,|1|,||
+|product_1087|,|prod_cat_712|,,|FIELD KITS|,|0.00|,|vendor_2|,|1|,||
+|product_1088|,|prod_cat_767|,|SC21|,|Combination electrodes (no temp.)|,|0.00|,|vendor_2|,|1|,||
+|product_1089|,|prod_cat_628|,|FBT|,|Threaded Large Volume Seal (GS SLC21A0-02E-A)|,|310.00|,|vendor_2|,|1|,||
+|product_1090|,|prod_cat_602|,|EJA530A|,|Gauge Pressure Transmitter (Direct-mount) [Style: S2]|,|1158.00|,|vendor_2|,|1|,||
+|product_1091|,|prod_cat_600|,|EJA510A|,|Absolute Pressure Transmitter (Direct-mount) [Style: S2]|,|1244.00|,|vendor_2|,|1|,||
+|product_1092|,|prod_cat_627|,,|Flushing Ring|,|0.00|,|vendor_2|,|1|,||
+|product_1093|,|prod_cat_835|,|ISC40FS|,|FLOW SUB-ASSEMBLY|,|0.00|,|vendor_2|,|1|,||
+|product_1094|,|prod_cat_850|,,|Accessories|,|0.00|,|vendor_2|,|1|,||
+|product_1095|,|prod_cat_669|,|755611|,|Digital Resistance Meter,  High Accuracy|,|3995.00|,|vendor_2|,|1|,||
+|product_1096|,|prod_cat_669|,|755601|,|Digital Resistance Meter|,|3395.00|,|vendor_2|,|1|,||
+|product_1097|,|prod_cat_550|,|ZR22G|,|Zirconia Oxygen/Humidity Analyzer Detector|,|2655.00|,|vendor_2|,|1|,||
+|product_1098|,|prod_cat_548|,|ZR202G|,|Integral Type Zirconia Oxygen/Humidity Analyzer|,|6476.00|,|vendor_2|,|1|,||
+|product_1099|,|prod_cat_556|,|ZR402G|,|Zirconia Oxygen/Humidity Analyzer/Converter|,|3875.00|,|vendor_2|,|1|,||
+|product_1100|,|prod_cat_814|,|SC202G|,|2-Wire Transmitter- General Purpose Version|,|1463.00|,|vendor_2|,|1|,||
+|product_1101|,|prod_cat_814|,|SC202S|,|2-Wire Transmitter- Intrinsically Safe Version (FM, CSA, Cenelec) Class I, Div I|,|1631.00|,|vendor_2|,|1|,||
+|product_1102|,|prod_cat_757|,|PH20|,|PVDF Universal pH / ORP Sensor (Adapter required for initial installation)|,|447.00|,|vendor_2|,|1|,||
+|product_1103|,|prod_cat_761|,|PH87|,|TITANIUM RETRACTABLE pH ASSEMBLY WITH JUNCTION BOX|,|0.00|,|vendor_2|,|1|,||
+|product_1104|,|prod_cat_709|,|767361|,|MT210, 10KPa gauge (1.45psi)|,|7265.00|,|vendor_2|,|1|,||
+|product_1105|,|prod_cat_709|,|767363|,|MT210, 130KPa gauge (18.85psi)|,|7065.00|,|vendor_2|,|1|,||
+|product_1106|,|prod_cat_709|,|767365|,|MT210, 700KPa gauge (101.5psi)|,|7265.00|,|vendor_2|,|1|,||
+|product_1107|,|prod_cat_709|,|767366|,|MT210, 3000KPa gauge (435psi)|,|7265.00|,|vendor_2|,|1|,||
+|product_1108|,|prod_cat_709|,|767367|,|MT210, 130KPa absolute (18.85psi)|,|7265.00|,|vendor_2|,|1|,||
+|product_1109|,|prod_cat_709|,|767370|,|MT210, 1KPa differential (0.145psi)|,|15150.00|,|vendor_2|,|1|,||
+|product_1110|,|prod_cat_709|,|767371|,|MT210, 10KPa differential (1.45psi)|,|9690.00|,|vendor_2|,|1|,||
+|product_1111|,|prod_cat_709|,|767372|,|MT210, 130KPa differential (18.85psi)|,|9490.00|,|vendor_2|,|1|,||
+|product_1112|,|prod_cat_709|,|767373|,|MT210, 700KPa differential (101.5psi)|,|9690.00|,|vendor_2|,|1|,||
+|product_1113|,|prod_cat_709|,|767381|,|MT210F, 10KPa gauge (1.45psi)|,|7875.00|,|vendor_2|,|1|,||
+|product_1114|,|prod_cat_709|,|767383|,|MT210F, 130KPa gauge (18.85psi)|,|7670.00|,|vendor_2|,|1|,||
+|product_1115|,|prod_cat_709|,|767385|,|MT210F, 700KPa gauge (101.5psi)|,|7875.00|,|vendor_2|,|1|,||
+|product_1116|,|prod_cat_709|,|767386|,|MT210F, 3000KPa gauge (435psi)|,|7875.00|,|vendor_2|,|1|,||
+|product_1117|,|prod_cat_709|,|767387|,|MT210F, 130KPa absolute (18.85psi)|,|7875.00|,|vendor_2|,|1|,||
+|product_1118|,|prod_cat_559|,|ZR22A|,|Heater assembly for ZR22 detector|,|1103.00|,|vendor_2|,|1|,||
+|product_1119|,|prod_cat_559|,|ZR202A|,|Heater assembly for ZR202 detector|,|1103.00|,|vendor_2|,|1|,||
+|product_1120|,|prod_cat_580|,|202AI|,|RATE TOTALIZER 4-20 mA input|,|764.00|,|vendor_2|,|1|,||
+|product_1121|,|prod_cat_721|,|UP150|,|Program Temperature Controller|,|346.00|,|vendor_2|,|1|,||
+|product_1122|,|prod_cat_722|,|UD310|,|1/16 DIN Manual Setter 4 to 20maA output|,|299.00|,|vendor_2|,|1|,||
+|product_1123|,|prod_cat_722|,|UD320|,|1/8 DIN Manual Setter 4 to 20maA output|,|368.00|,|vendor_2|,|1|,||
+|product_1124|,|prod_cat_722|,|UD350|,|1/4 DIN Manual Setter 4 to 20maA output|,|437.00|,|vendor_2|,|1|,||
+|product_1125|,|prod_cat_709|,|767351|,|MT220 10 kPA gauge (1.45psi)|,|8670.00|,|vendor_2|,|1|,||
+|product_1126|,|prod_cat_709|,|767353|,|MT220 130 kPA gauge (18.85psi)|,|8420.00|,|vendor_2|,|1|,||
+|product_1127|,|prod_cat_709|,|767355|,|MT220 700 kPA gauge (101.5psi)|,|8670.00|,|vendor_2|,|1|,||
+|product_1128|,|prod_cat_709|,|767356|,|MT220 3000 kPA gauge (435psi)|,|8670.00|,|vendor_2|,|1|,||
+|product_1129|,|prod_cat_709|,|767357|,|MT220 130 kPA absolute (18.85psi)|,|8670.00|,|vendor_2|,|1|,||
+|product_1130|,|prod_cat_677|,|760101|,|WT1600 Digital Power Analyzer, Main Unit|,|0.00|,|vendor_2|,|1|,||
+|product_1131|,|prod_cat_628|,|SDL|,|Remote Saddle Diaphragm Seal|,|205.00|,|vendor_2|,|1|,||
+|product_1132|,|prod_cat_792|,|CW240|,|Clamp on Power Meter|,|2035.00|,|vendor_2|,|1|,||
+|product_1133|,|prod_cat_839|,|CX2010|,|CX2000 - 0 Internal Loops; 10 Measure Channels|,|5985.00|,|vendor_2|,|1|,||
+|product_1134|,|prod_cat_839|,|CX2020|,|CX2000 - 0 Internal Loops; 20 Measure Channels|,|7110.00|,|vendor_2|,|1|,||
+|product_1135|,|prod_cat_839|,|CX2210|,|CX2000 - 2 Internal Loops; 10 Measure Channels|,|7185.00|,|vendor_2|,|1|,||
+|product_1136|,|prod_cat_839|,|CX2220|,|CX2000 - 2 Internal Loops; 20 Measure Channels|,|8310.00|,|vendor_2|,|1|,||
+|product_1137|,|prod_cat_839|,|CX2410|,|CX2000 - 4 Internal Loops; 10 Measure Channels|,|8375.00|,|vendor_2|,|1|,||
+|product_1138|,|prod_cat_839|,|CX2420|,|CX2000 - 4 Internal Loops; 20 Measure Channels|,|9500.00|,|vendor_2|,|1|,||
+|product_1139|,|prod_cat_839|,|CX2610|,|CX2000 - 6 Internal Loops; 10 Measure Channels|,|9575.00|,|vendor_2|,|1|,||
+|product_1140|,|prod_cat_839|,|CX2620|,|CX2000 - 6 Internal Loops; 20 Measure Channels|,|10695.00|,|vendor_2|,|1|,||
+|product_1141|,|prod_cat_839|,|CX2000|,|CX2000 - 0 Internal Loops; 0 Measure Channels|,|5090.00|,|vendor_2|,|1|,||
+|product_1142|,|prod_cat_839|,|CX2200|,|CX2000 - 2 Internal Loops; 0 Measure Channels|,|6280.00|,|vendor_2|,|1|,||
+|product_1143|,|prod_cat_577|,|DY250|,|10 Inch ID Stainless Steel Flanged|,|11139.00|,|vendor_2|,|1|,||
+|product_1144|,|prod_cat_577|,|DY400|,|16 Inch ID Stainless Steel Flanged|,|25916.00|,|vendor_2|,|1|,||
+|product_1145|,|prod_cat_577|,|DY025|,|1 Inch ID Stainless Steel Wafer Flanged|,|1547.00|,|vendor_2|,|1|,||
+|product_1146|,|prod_cat_577|,|DY015|,|0.5 Inch ID Stainless Steel Wafer Flanged|,|1547.00|,|vendor_2|,|1|,||
+|product_1147|,|prod_cat_577|,|DY040|,|1.5 Inch ID Stainless Steel Wafer Flanged|,|1558.00|,|vendor_2|,|1|,||
+|product_1148|,|prod_cat_577|,|DY050|,|2  Inch ID Stainless Steel Wafer Flanged|,|1588.00|,|vendor_2|,|1|,||
+|product_1149|,|prod_cat_577|,|DY080|,|3  Inch ID Stainless Steel Wafer Flanged|,|1753.00|,|vendor_2|,|1|,||
+|product_1150|,|prod_cat_577|,|DY100|,|4 Inch ID Stainless Steel Wafer Flanged|,|2052.00|,|vendor_2|,|1|,||
+|product_1151|,|prod_cat_577|,|DY150|,|6 Inch ID Stainless Steel Flanged|,|3682.00|,|vendor_2|,|1|,||
+|product_1152|,|prod_cat_577|,|DY200|,|8 Inch ID Stainless Steel Flanged|,|6035.00|,|vendor_2|,|1|,||
+|product_1153|,|prod_cat_577|,|DY300|,|12 Inch ID Stainless Steel Flanged|,|13850.00|,|vendor_2|,|1|,||
+|product_1154|,|prod_cat_577|,|DY015|,|0.5 Inch ID Hastelloy C  Wafer Flanged|,|1547.00|,|vendor_2|,|1|,||
+|product_1155|,|prod_cat_577|,|DY025|,|1 Inch ID Hastelloy C Wafer Flanged|,|1547.00|,|vendor_2|,|1|,||
+|product_1156|,|prod_cat_577|,|DY040|,|1.5 Inch ID Hastelloy C  Wafer Flanged|,|1558.00|,|vendor_2|,|1|,||
+|product_1157|,|prod_cat_577|,|DY050|,|2 Inch ID Hastelloy C Wafer Flanged|,|1588.00|,|vendor_2|,|1|,||
+|product_1158|,|prod_cat_577|,|DY080|,|3 Inch ID Hastelloy C Wafer Flanged|,|1753.00|,|vendor_2|,|1|,||
+|product_1159|,|prod_cat_577|,|DY100|,|4 Inch ID Hastelloy C  Wafer Flanged|,|2052.00|,|vendor_2|,|1|,||
+|product_1160|,|prod_cat_577|,|DY150|,|6 Inch ID Hastelloy C Flanged|,|3682.00|,|vendor_2|,|1|,||
+|product_1161|,|prod_cat_577|,|DY015|,|0.5 Inch ID Stainless Steel/ Wafer Flanged/Hastelloy Shedder|,|1547.00|,|vendor_2|,|1|,||
+|product_1162|,|prod_cat_577|,|DY025|,|1 Inch ID Stainless Steel/ Wafer Flanged/Hastelloy Shedder|,|1547.00|,|vendor_2|,|1|,||
+|product_1163|,|prod_cat_577|,|DY040|,|1.5 Inch ID Stainless Steel/ Wafer Flanged/Hastelloy Shedder|,|1558.00|,|vendor_2|,|1|,||
+|product_1164|,|prod_cat_577|,|DY050|,|2 Inch ID Stainless Steel/ Wafer Flanged/Hastelloy Shedder|,|1588.00|,|vendor_2|,|1|,||
+|product_1165|,|prod_cat_577|,|DY080|,|3 Inch ID Stainless Steel/ Wafer Flanged/Hastelloy Shedder|,|1753.00|,|vendor_2|,|1|,||
+|product_1166|,|prod_cat_577|,|DY100|,|4 Inch ID Stainless Steel/ Wafer Flanged/Hastelloy Shedder|,|2052.00|,|vendor_2|,|1|,||
+|product_1167|,|prod_cat_577|,|DY150|,|6 Inch ID Stainless Steel/ Wafer Flanged/Hastelloy Shedder|,|3682.00|,|vendor_2|,|1|,||
+|product_1168|,|prod_cat_577|,|DY200|,|8 Inch ID Stainless Steel/ Wafer Flanged/Hastelloy Shedder|,|6035.00|,|vendor_2|,|1|,||
+|product_1169|,|prod_cat_577|,|DY015|,|0.5 Inch ID HiPurity  Wafer Flanged|,|1547.00|,|vendor_2|,|1|,||
+|product_1170|,|prod_cat_577|,|DY025|,|1 Inch ID HiPurity Wafer Flanged|,|1547.00|,|vendor_2|,|1|,||
+|product_1171|,|prod_cat_577|,|DY040|,|1.5 Inch ID HiPurity Wafer Flanged|,|1558.00|,|vendor_2|,|1|,||
+|product_1172|,|prod_cat_577|,|DY050|,|2  Inch ID HiPurity Wafer Flanged|,|1588.00|,|vendor_2|,|1|,||
+|product_1173|,|prod_cat_577|,|DY080|,|3  Inch ID HiPurity Wafer Flanged|,|1753.00|,|vendor_2|,|1|,||
+|product_1174|,|prod_cat_577|,|DY100|,|4 Inch ID HiPurity Wafer Flanged|,|2052.00|,|vendor_2|,|1|,||
+|product_1175|,|prod_cat_577|,|DY150|,|6 Inch ID HiPurity Flanged|,|3682.00|,|vendor_2|,|1|,||
+|product_1176|,|prod_cat_577|,|DY200|,|8 Inch ID HiPurity Flanged|,|6035.00|,|vendor_2|,|1|,||
+|product_1177|,|prod_cat_577|,|DYA|,|VORTEX FLOWMETER CONVERTER, REMOTE TYPE|,|958.00|,|vendor_2|,|1|,||
+|product_1178|,|prod_cat_577|,|K/M1213HG-A|,|C/E Style Integral to Integral Digital YEWFLO,  blind  BRAIN|,|662.00|,|vendor_2|,|1|,||
+|product_1179|,|prod_cat_577|,|K/M1213HQ-A|,|Digital YEWFLO Blind to Display Kit|,|491.00|,|vendor_2|,|1|,||
+|product_1180|,|prod_cat_577|,|K/M1213HL-A|,|C/E Style Integral to Remote Digital YEWFLO, Blind  BRAIN|,|1062.00|,|vendor_2|,|1|,||
+|product_1181|,|prod_cat_577|,|K/M1213HN-A|,|C/E Style Remote to Integral Digital YEWFLO,  blind  BRAIN|,|657.00|,|vendor_2|,|1|,||
+|product_1182|,|prod_cat_577|,|K/M1213HR-A|,|Digital YEWFLO Integral to Remote Kit|,|611.00|,|vendor_2|,|1|,||
+|product_1183|,|prod_cat_577|,|K/M1213HS-A|,|Digital YEWFLO Remote to Integral|,|217.00|,|vendor_2|,|1|,||
+|product_1184|,|prod_cat_577|,|K/M1213HW-A|,|C/E Style Integral to Integral Digital YEWFLO,  blind  HART|,|662.00|,|vendor_2|,|1|,||
+|product_1185|,|prod_cat_577|,|K/M1213HM-A|,|C/E Style Integral to Remote Digital YEWFLO, Blind  HART|,|1062.00|,|vendor_2|,|1|,||
+|product_1186|,|prod_cat_577|,|K/M1213HP-A|,|C/E Style Remote to Integral Digital YEWFLO,  blind  HART|,|657.00|,|vendor_2|,|1|,||
+|product_1187|,|prod_cat_577|,|K/M1213NM-A|,|DYF Amplifier verification kit|,|194.00|,|vendor_2|,|1|,||
+|product_1188|,|prod_cat_577|,|DYC|,|SIGNAL CABLE|,|60.00|,|vendor_2|,|1|,||
+|product_1189|,|prod_cat_844|,,|Accessories|,|0.00|,|vendor_2|,|1|,||
+|product_1190|,|prod_cat_553|,|ZR22R|,|LOW TEMPERATURE PROBE PROTECTOR|,|843.00|,|vendor_2|,|1|,||
+|product_1191|,|prod_cat_555|,|ZR22V|,|LOW TEMPERATURE PROBE SUPPORT|,|892.00|,|vendor_2|,|1|,||
+|product_1192|,|prod_cat_552|,|ZR22P|,|HIGH TEMPERATURE PROBE ADAPTER|,|1175.00|,|vendor_2|,|1|,||
+|product_1193|,|prod_cat_791|,|CW120|,|Clamp On Power Meter|,|1187.00|,|vendor_2|,|1|,||
+|product_1194|,|prod_cat_791|,|CW121|,|Clamp On Power Meter|,|1333.00|,|vendor_2|,|1|,||
+|product_1195|,|prod_cat_867|,|250|,|Taut Band and Iron Vane Big Look|,|65.00|,|vendor_2|,|1|,||
+|product_1196|,|prod_cat_867|,|251|,|Taut Band and Iron Vane Horizon|,|65.00|,|vendor_2|,|1|,||
+|product_1197|,|prod_cat_867|,|254|,|Pivot and Jewel DC or Frequency Big Look|,|65.00|,|vendor_2|,|1|,||
+|product_1198|,|prod_cat_867|,|255|,|Pivot and Jewel DC or Frequency Horizon|,|65.00|,|vendor_2|,|1|,||
+|product_1199|,|prod_cat_867|,|260|,|Taut Band and Iron Vane Stylist|,|65.00|,|vendor_2|,|1|,||
+|product_1200|,|prod_cat_867|,|261|,|Taut Band and Iron Vane Window Mount Stylist|,|65.00|,|vendor_2|,|1|,||
+|product_1201|,|prod_cat_867|,|264|,|Pivot and Jewel DC or Frequency Stylist|,|65.00|,|vendor_2|,|1|,||
+|product_1202|,|prod_cat_867|,|265|,|Pivot and Jewel DC or Frequency Window Mount Stylist|,|65.00|,|vendor_2|,|1|,||
+|product_1203|,|prod_cat_676|,|760401|,|WT210, Single Phase Without Interface 100 to 240 VAC Input Power (50/60 Hz)|,|2005.00|,|vendor_2|,|1|,||
+|product_1204|,|prod_cat_855|,|103|,|TAUT BAND AB/DB40|,|294.00|,|vendor_2|,|1|,||
+|product_1205|,|prod_cat_855|,|127|,|TAUT BAND WHITE BACK-LIT SCALE|,|386.00|,|vendor_2|,|1|,||
+|product_1206|,|prod_cat_855|,|126|,|TAUT BAND RED BACK-LIT SCALE|,|386.00|,|vendor_2|,|1|,||
+|product_1207|,|prod_cat_831|,|ISC202G|,|INDUCTIVE CONDUCTIVITY 2-Wire Transmitter - General Purpose Version|,|1458.00|,|vendor_2|,|1|,||
+|product_1208|,|prod_cat_831|,|ISC202S|,|INDUCTIVE CONDUCTIVITY 2  Wire Transmitter  Intrinsically Safe|,|1663.00|,|vendor_2|,|1|,||
+|product_1209|,|prod_cat_577|,,|Parts Shedder Bar Assemblies|,|0.00|,|vendor_2|,|1|,||
+|product_1210|,|prod_cat_886|,|MX100|,|DAQMASTER MX100 data acquisition main module|,|1335.00|,|vendor_2|,|1|,||
+|product_1211|,|prod_cat_886|,|MX100-E-[1x]/SL1|,|MX100 10 channel system|,|2350.00|,|vendor_2|,|1|,||
+|product_1212|,|prod_cat_886|,|MX100-E-[1x]/SL2|,|MX100 20 channel system|,|3055.00|,|vendor_2|,|1|,||
+|product_1213|,|prod_cat_886|,|MX100-E-[1x]/SL3|,|MX100 30 channel system|,|3880.00|,|vendor_2|,|1|,||
+|product_1214|,|prod_cat_885|,|MX150-1|,|Base plate for one main and one I/O module|,|165.00|,|vendor_2|,|1|,||
+|product_1215|,|prod_cat_885|,|MX150-2|,|Base plate for one main and two I/O modules|,|175.00|,|vendor_2|,|1|,||
+|product_1216|,|prod_cat_885|,|MX150-3|,|Base plate for one main and three I/O modules|,|180.00|,|vendor_2|,|1|,||
+|product_1217|,|prod_cat_885|,|MX150-4|,|Base plate for one main and four I/O modules|,|190.00|,|vendor_2|,|1|,||
+|product_1218|,|prod_cat_885|,|MX150-5|,|Base plate for one main and five I/O modules|,|195.00|,|vendor_2|,|1|,||
+|product_1219|,|prod_cat_885|,|MX150-6|,|Base plate for one main and six I/O modules|,|200.00|,|vendor_2|,|1|,||
+|product_1220|,|prod_cat_885|,,|MX100 Input/Output Modules|,|0.00|,|vendor_2|,|1|,||
+|product_1221|,|prod_cat_885|,|772061|,|Screw terminal unit (10ch)|,|180.00|,|vendor_2|,|1|,||
+|product_1222|,|prod_cat_885|,|772062-050|,|50 cm cable for screw terminal unit|,|105.00|,|vendor_2|,|1|,||
+|product_1223|,|prod_cat_885|,|772062-100|,|100 cm cable for screw terminal unit|,|115.00|,|vendor_2|,|1|,||
+|product_1224|,|prod_cat_885|,|772063|,|Additional clamp terminal (10ch) for MX110-UNV-M10 or MX115-D05-H10|,|175.00|,|vendor_2|,|1|,||
+|product_1225|,|prod_cat_885|,|772064|,|Additional clamp terminal (1ch) for MX110-UNV-H04|,|5.00|,|vendor_2|,|1|,||
+|product_1226|,|prod_cat_885|,|772065|,|Additional clamp terminal (5ch) for MX125-MKC-M10|,|15.00|,|vendor_2|,|1|,||
+|product_1227|,|prod_cat_885|,|772066|,|Connector cover for MX150 base plate empty slots|,|10.00|,|vendor_2|,|1|,||
+|product_1228|,|prod_cat_885|,|772075D|,|AC adapter for the DC power model|,|250.00|,|vendor_2|,|1|,||
+|product_1229|,|prod_cat_885|,|772075F|,|Power Cable for UL/CSA|,|0.00|,|vendor_2|,|1|,||
+|product_1230|,|prod_cat_885|,|772075R|,|Power Cable for VDE|,|0.00|,|vendor_2|,|1|,||
+|product_1231|,|prod_cat_885|,|772075Q|,|Power Cable for SAA|,|0.00|,|vendor_2|,|1|,||
+|product_1232|,|prod_cat_885|,|772075H|,|Power Cable for GB (CCC)|,|0.00|,|vendor_2|,|1|,||
+|product_1233|,|prod_cat_885|,|772080|,|Screw (M3) terminal plate (with RJC)|,|200.00|,|vendor_2|,|1|,||
+|product_1234|,|prod_cat_885|,|B9968NN|,|CF to PCMCIA Adapter|,|25.00|,|vendor_2|,|1|,||
+|product_1235|,|prod_cat_885|,|772093|,|512 MB Compact Flash card|,|120.00|,|vendor_2|,|1|,||
+|product_1236|,|prod_cat_885|,|772094|,|1 GB Compact Flash Card|,|195.00|,|vendor_2|,|1|,||
+|product_1237|,|prod_cat_885|,|DOCIMMX10001EN|,|MX100 DAQ UNIT USER'S MANUAL|,|50.00|,|vendor_2|,|1|,||
+|product_1238|,|prod_cat_885|,|DOCIMMX10002EN|,|MX100 DAQ UNIT OPERATION GUIDE|,|25.00|,|vendor_2|,|1|,||
+|product_1239|,|prod_cat_885|,|DOCIMMX10072EN|,|MX100 DAQ UNIT I&C GUIDE|,|10.00|,|vendor_2|,|1|,||
+|product_1240|,|prod_cat_885|,|DOCIMMX10074EN|,|MX100 HANDLING OF I/O MODULES|,|10.00|,|vendor_2|,|1|,||
+|product_1241|,|prod_cat_885|,|DOCIMMX10075EN|,|MX100 HANDLING OF BASE PLATE|,|10.00|,|vendor_2|,|1|,||
+|product_1242|,|prod_cat_885|,|DOCIMMX10076EN|,|MX100 HANDLING 10CH SCREW TERM|,|10.00|,|vendor_2|,|1|,||
+|product_1243|,|prod_cat_885|,|DOCIMMX18001EN|,|MX100 STD SOFTWARE USER MANUAL|,|30.00|,|vendor_2|,|1|,||
+|product_1244|,|prod_cat_885|,|MW180-1|,|MW100 Viewer Software|,|120.00|,|vendor_2|,|1|,||
+|product_1245|,|prod_cat_885|,|772083/S10|,|Plate with clamp terminals for current (built-in shunt resistance of 250 ohm -20 to 20 mA)|,|200.00|,|vendor_2|,|1|,||
+|product_1246|,|prod_cat_885|,|M1223XE-A|,|2 GB Compact Flash card|,|80.00|,|vendor_2|,|1|,||
+|product_1247|,|prod_cat_885|,|772081|,|Plate with clamp terminals for current (built-in shunt resistance of 10 ohm -100 to 100 mA)|,|200.00|,|vendor_2|,|1|,||
+|product_1248|,|prod_cat_885|,|772082|,|Plate with clamp terminals for current (built-in shunt resistance of 100 ohm -30 to 30 mA)|,|200.00|,|vendor_2|,|1|,||
+|product_1249|,|prod_cat_885|,|772083|,|Plate with clamp terminals for current (built-in shunt resistance of 250 ohm -20 to 20 mA)|,|200.00|,|vendor_2|,|1|,||
+|product_1250|,|prod_cat_885|,|MW180-2|,|MW100 AGA Setting Software|,|470.00|,|vendor_2|,|1|,||
+|product_1251|,|prod_cat_885|,|772080/S10|,|Screw (M3) terminal plate (with RJC),FM non-incendive approved (FM Class 1, Div 2)|,|200.00|,|vendor_2|,|1|,||
+|product_1252|,|prod_cat_885|,|772081/S10|,|Plate with clamp terminals for current (built-in shunt resistance of 10 ohm -100 to 100 mA)|,|200.00|,|vendor_2|,|1|,||
+|product_1253|,|prod_cat_885|,|772082/S10|,|Plate with clamp terminals for current (built-in shunt resistance of 100 ohm -30 to 30 mA)|,|200.00|,|vendor_2|,|1|,||
+|product_1254|,|prod_cat_649|,|M25HPS/44F/XP|,|Block & Bleed Valve for Power (1/2 inch FNPT Process Connection)  (Grafoil Packing, 316SS Body)|,|293.00|,|vendor_2|,|1|,||
+|product_1255|,|prod_cat_649|,|M25HPS/4M/XP|,|Block & Bleed Valve for Power (1/2 inch MNPT Process Connection)  (Grafoil Packing, 316SS Body)|,|301.00|,|vendor_2|,|1|,||
+|product_1256|,|prod_cat_649|,|M251VIS/44F/SG|,|Block & Bleed Valve (1/2 inch FNPT Process Connection)  (Teflon Packing, 316SS Body, Sour Gas)|,|294.00|,|vendor_2|,|1|,||
+|product_1257|,|prod_cat_649|,|M25HPS/4M/XP/SG|,|Block & Bleed Valve for Power (1/2 inch MNPT Process Connection)  (Garfoil Pacg, 316SS Body, S. Gas)|,|341.00|,|vendor_2|,|1|,||
+|product_1258|,|prod_cat_649|,|M251VIS/4M/SG|,|Block & Bleed Valve (1/2 inch MNPT Process Connection)  (Teflon Packing, 316SS Body, Sour Gas)|,|302.00|,|vendor_2|,|1|,||
+|product_1259|,|prod_cat_649|,|M25HPS/44F/XP/SG|,|Block & Bleed Valve for Power (1/2 inch FNPT Process Connection)  (Grafoil Pacg, 316SS Body, S. Gas)|,|333.00|,|vendor_2|,|1|,||
+|product_1260|,|prod_cat_649|,|M251VIS/44F|,|Block & Bleed Valve (1/2 inch FNPT Process Connection)  (Teflon Packing, 316SS Body)|,|253.00|,|vendor_2|,|1|,||
+|product_1261|,|prod_cat_649|,|M251VIS/4M|,|Block & Bleed Valve (1/2 inch MNPT Process Connection)  (Teflon Packing, 316SS Body)|,|262.00|,|vendor_2|,|1|,||
+|product_1262|,|prod_cat_631|,|R/475|,|Field Communicator (GS 475COMM-01E)|,|5569.00|,|vendor_2|,|1|,||
+|product_1263|,|prod_cat_779|,|AWF10|,|Extension Cable, Multi-Core, Shielded for Low Voltage, High Impedance|,|0.00|,|vendor_2|,|1|,||
+|product_1264|,|prod_cat_900|,|RCCT34|,|Qnom = 110 lb/min|,|7286.00|,|vendor_2|,|1|,||
+|product_1265|,|prod_cat_900|,|RCCT36|,|Q nom = 374 lb/min|,|8162.00|,|vendor_2|,|1|,||
+|product_1266|,|prod_cat_900|,|RCCT38|,|Q nom = 1175 lb/min|,|9645.00|,|vendor_2|,|1|,||
+|product_1267|,|prod_cat_900|,|RCCT39|,|Q nom = 3681 lb/min|,|12591.00|,|vendor_2|,|1|,||
+|product_1268|,|prod_cat_900|,|RCCT39/IR|,|Q nom = 9193 lb/min|,|22036.00|,|vendor_2|,|1|,||
+|product_1269|,|prod_cat_898|,|RCCF31|,|RCCF31 Remote Mass Flow Converter|,|3887.00|,|vendor_2|,|1|,||
+|product_1270|,|prod_cat_899|,|RCCS30|,|Q nom = 1.65 lb/min|,|3252.00|,|vendor_2|,|1|,||
+|product_1271|,|prod_cat_895|,|RCCS31|,|Q nom = 6.2 lb/min|,|3252.00|,|vendor_2|,|1|,||
+|product_1272|,|prod_cat_899|,|RCCS32|,|Q nom = 13.5 lb/min|,|3540.00|,|vendor_2|,|1|,||
+|product_1273|,|prod_cat_899|,|RCCS33|,|Q nom = 33.0 lb/min|,|3540.00|,|vendor_2|,|1|,||
+|product_1274|,|prod_cat_899|,|RCCS34|,|Q nom = 110 lb/min|,|3677.00|,|vendor_2|,|1|,||
+|product_1275|,|prod_cat_899|,|RCCS36|,|Q nom = 374 lb/min|,|4558.00|,|vendor_2|,|1|,||
+|product_1276|,|prod_cat_899|,|RCCS38|,|Q nom = 1175 lb/min|,|6040.00|,|vendor_2|,|1|,||
+|product_1277|,|prod_cat_899|,|RCCS39|,|Q nom = 3681 lb/min|,|9016.00|,|vendor_2|,|1|,||
+|product_1278|,|prod_cat_899|,|RCCS39/IR|,|Q nom = 9193 lb/min|,|18436.00|,|vendor_2|,|1|,||
+|product_1279|,|prod_cat_1054|,,|FA-M3|,|0.00|,|vendor_2|,|1|,||
+|product_1280|,|prod_cat_897|,|RCCY034|,|RotaMASS Cable|,|0.00|,|vendor_2|,|1|,||
+|product_1281|,|prod_cat_830|,|VJHF|,|Super Speed Isolator|,|315.00|,|vendor_2|,|1|,||
+|product_1282|,|prod_cat_830|,|VJSS|,|High/Low Signal Selector|,|516.00|,|vendor_2|,|1|,||
+|product_1283|,|prod_cat_830|,|VJA1|,|Distributor|,|227.00|,|vendor_2|,|1|,||
+|product_1284|,|prod_cat_830|,|VJB1|,|CT Transmitter|,|333.00|,|vendor_2|,|1|,||
+|product_1285|,|prod_cat_830|,|VJF1|,|P/E Transmitter|,|444.00|,|vendor_2|,|1|,||
+|product_1286|,|prod_cat_830|,|VJH1|,|Isolator|,|227.00|,|vendor_2|,|1|,||
+|product_1287|,|prod_cat_830|,|VJG1|,|PT Transmitter (RMS Type)|,|333.00|,|vendor_2|,|1|,||
+|product_1288|,|prod_cat_830|,|VJ77|,|Parameters setting tool|,|620.00|,|vendor_2|,|1|,||
+|product_1289|,|prod_cat_830|,|VJA4|,|Isolator|,|177.00|,|vendor_2|,|1|,||
+|product_1290|,|prod_cat_830|,|VJA7|,|Isolator|,|272.00|,|vendor_2|,|1|,||
+|product_1291|,|prod_cat_830|,|VJC1|,|Isolator|,|205.00|,|vendor_2|,|1|,||
+|product_1292|,|prod_cat_830|,|VJCE|,|Mounting Base|,|743.00|,|vendor_2|,|1|,||
+|product_1293|,|prod_cat_830|,|VJH7|,|Isolator|,|295.00|,|vendor_2|,|1|,||
+|product_1294|,|prod_cat_830|,|VJP8|,|Pulse Rate Converter|,|333.00|,|vendor_2|,|1|,||
+|product_1295|,|prod_cat_830|,|VJQ7|,|Analog/Pulse Transmitter|,|449.00|,|vendor_2|,|1|,||
+|product_1296|,|prod_cat_830|,|VJQ8|,|Pulse/Analog Transmitter|,|449.00|,|vendor_2|,|1|,||
+|product_1297|,|prod_cat_830|,|VJS7|,|Potentiometer Transmitter|,|397.00|,|vendor_2|,|1|,||
+|product_1298|,|prod_cat_830|,|VJU7|,|Universal Temperature Converter|,|333.00|,|vendor_2|,|1|,||
+|product_1299|,|prod_cat_830|,|VJX7|,|Universal Computing Unit|,|449.00|,|vendor_2|,|1|,||
+|product_1300|,|prod_cat_876|,|101|,|AB14 switchboard high shock|,|499.00|,|vendor_2|,|1|,||
+|product_1301|,|prod_cat_865|,|106|,|AB40 synchroscopes|,|0.00|,|vendor_2|,|1|,||
+|product_1302|,|prod_cat_858|,|120|,|AB16 synchroscopes|,|1199.00|,|vendor_2|,|1|,||
+|product_1303|,|prod_cat_854|,|121|,|AB/DB16 switchboards|,|496.00|,|vendor_2|,|1|,||
+|product_1304|,|prod_cat_874|,|240|,|ELAPSED TIME METER|,|64.00|,|vendor_2|,|1|,||
+|product_1305|,|prod_cat_873|,|180|,|EDGEWISE|,|156.00|,|vendor_2|,|1|,||
+|product_1306|,|prod_cat_873|,|286|,|1 1/2 Thin Edgewise Meters|,|70.00|,|vendor_2|,|1|,||
+|product_1307|,|prod_cat_873|,|287|,|2 1/2 Thin Edgewise meters|,|76.00|,|vendor_2|,|1|,||
+|product_1308|,|prod_cat_873|,|288|,|3 1/2 edgewise meters|,|81.00|,|vendor_2|,|1|,||
+|product_1309|,|prod_cat_870|,|Y810|,|Green LED  85 to 264 volts AC|,|289.00|,|vendor_2|,|1|,||
+|product_1310|,|prod_cat_870|,|Y811|,|Green LED 8 to 28  volts AC|,|321.00|,|vendor_2|,|1|,||
+|product_1311|,|prod_cat_870|,|Y820|,|Red  LED 85 to 264 volts AC|,|289.00|,|vendor_2|,|1|,||
+|product_1312|,|prod_cat_870|,|Y821|,|Red LED 8 to 28  volts AC|,|321.00|,|vendor_2|,|1|,||
+|product_1313|,|prod_cat_878|,|2491|,|AC AMPS / AC VOLTS / FREQUENCY|,|0.00|,|vendor_2|,|1|,||
+|product_1314|,|prod_cat_878|,|2491|,|AC WATTS AND VARS|,|0.00|,|vendor_2|,|1|,||
+|product_1315|,|prod_cat_878|,|2491|,|POWER FACTOR ANDPHASE ANGLE|,|0.00|,|vendor_2|,|1|,||
+|product_1316|,|prod_cat_878|,|2492|,|AC VOLTS / AMP DUAL FUNCTION|,|0.00|,|vendor_2|,|1|,||
+|product_1317|,|prod_cat_878|,|2492|,|AC VOLT / FREQUENCY DUAL FUNCTION|,|0.00|,|vendor_2|,|1|,||
+|product_1318|,|prod_cat_878|,|2492|,|AC WATT AND VAR DUAL FUNCTION|,|0.00|,|vendor_2|,|1|,||
+|product_1319|,|prod_cat_878|,|2492|,|AC WATT AND POWER FACTOR DUAL FUNCTION|,|0.00|,|vendor_2|,|1|,||
+|product_1320|,|prod_cat_878|,|2493|,|3 IN 1 AC WATT / VAR / POWER FACTOR|,|0.00|,|vendor_2|,|1|,||
+|product_1321|,|prod_cat_878|,|2493|,|3 IN 1 AC VOLT OR AMP|,|0.00|,|vendor_2|,|1|,||
+|product_1322|,|prod_cat_878|,|2493|,|3 IN 1 AC VOLT / AMP / HERTZ|,|0.00|,|vendor_2|,|1|,||
+|product_1323|,|prod_cat_901|,|2371A00|,|DC-DC ISOLATOR|,|397.00|,|vendor_2|,|1|,||
+|product_1324|,|prod_cat_901|,|2372A00|,|AC VOLTAGE/CURRENT - MEAN VALUE RECTIFIER TYPE|,|131.00|,|vendor_2|,|1|,||
+|product_1325|,|prod_cat_901|,|2372A00|,|AC VOLTAGE/CURRENT - MEAN VALUE RECTIFIER TYPE|,|131.00|,|vendor_2|,|1|,||
+|product_1326|,|prod_cat_901|,|2373A00|,|AC VOLTAGE/CURRENT - SIMPLIFIED RMS TYPE AUXILIARY POWERED -SIMPLIFIED RMS 45-65HZ|,|156.00|,|vendor_2|,|1|,||
+|product_1327|,|prod_cat_901|,|2373A00|,|AC VOLTAGE/CURRENT - SIMPLIFIED RMS TYPE AUXILIARY POWERED -SIMPLIFIED RMS 45-65HZ|,|156.00|,|vendor_2|,|1|,||
+|product_1328|,|prod_cat_901|,|2374A00|,|AC VOLTAGE/CURRENT - TRUE RMS TYPE AUXILIARY POWERED -TRUE RMS (45-10kHZ)|,|266.00|,|vendor_2|,|1|,||
+|product_1329|,|prod_cat_915|,|2375A10|,|Watt Transducers 45-65 Hz. Single phase 2 wire|,|373.00|,|vendor_2|,|1|,||
+|product_1330|,|prod_cat_915|,|2375A20|,|Watt Transducers 45-65 Hz. Single phase 3 wire|,|373.00|,|vendor_2|,|1|,||
+|product_1331|,|prod_cat_915|,|2375A30|,|Watt Transducers 45-65 Hz. Three Phase 3 wire|,|433.00|,|vendor_2|,|1|,||
+|product_1332|,|prod_cat_915|,|2375A40|,|Watt Transducers 45-65 Hz. Three Phase 4 wire|,|528.00|,|vendor_2|,|1|,||
+|product_1333|,|prod_cat_914|,|2376A10|,|VAR TRANSDUCERS 45-65HZ. Single phase 2 wire|,|373.00|,|vendor_2|,|1|,||
+|product_1334|,|prod_cat_914|,|2376A20|,|VAR TRANSDUCERS 45-65HZ. Single phase 3 wire|,|373.00|,|vendor_2|,|1|,||
+|product_1335|,|prod_cat_914|,|2376A30|,|VAR TRANSDUCERS 45-65HZ. Three Phase 3 wire|,|468.00|,|vendor_2|,|1|,||
+|product_1336|,|prod_cat_914|,|2376A40|,|VAR TRANSDUCERS 45-65HZ. Three Phase 4 wire|,|468.00|,|vendor_2|,|1|,||
+|product_1337|,|prod_cat_912|,|2377A10|,|PHASE ANGLE TRANSDUCERS 45-65HZ. Single phase 2 wire|,|397.00|,|vendor_2|,|1|,||
+|product_1338|,|prod_cat_912|,|2377A20|,|PHASE ANGLE TRANSDUCERS 45-65HZ. Single phase 3 wire|,|397.00|,|vendor_2|,|1|,||
+|product_1339|,|prod_cat_912|,|2377A30|,|PHASE ANGLE TRANSDUCERS 45-65HZ. Three Phase 3 wire|,|468.00|,|vendor_2|,|1|,||
+|product_1340|,|prod_cat_912|,|2377A40|,|PHASE ANGLE TRANSDUCERS 45-65HZ. Three Phase 4 wire|,|602.00|,|vendor_2|,|1|,||
+|product_1341|,|prod_cat_913|,|2377A11|,|Single phase 2 wire|,|662.00|,|vendor_2|,|1|,||
+|product_1342|,|prod_cat_913|,|2377A21|,|Single phase 3 wire|,|662.00|,|vendor_2|,|1|,||
+|product_1343|,|prod_cat_913|,|2377A31|,|Three Phase 3 wire|,|691.00|,|vendor_2|,|1|,||
+|product_1344|,|prod_cat_913|,|2377A41|,|Three Phase 4 wire|,|926.00|,|vendor_2|,|1|,||
+|product_1345|,|prod_cat_902|,|2378A01|,|45-55 HZ   FREQUENCY TRANSDUCERS|,|336.00|,|vendor_2|,|1|,||
+|product_1346|,|prod_cat_902|,|2378A02|,|55-65 HZ   FREQUENCY TRANSDUCERS|,|336.00|,|vendor_2|,|1|,||
+|product_1347|,|prod_cat_902|,|2378A03|,|45-65 HZ   FREQUENCY TRANSDUCERS|,|336.00|,|vendor_2|,|1|,||
+|product_1348|,|prod_cat_905|,|2489|,|0.2% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1349|,|prod_cat_905|,|2469|,|0.5% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1350|,|prod_cat_907|,|2469|,|0.5% DC TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1351|,|prod_cat_907|,|2469|,|DC CURRENT TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1352|,|prod_cat_904|,|2489|,|0.2% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1353|,|prod_cat_903|,|2469|,|0.5% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1354|,|prod_cat_911|,|2489|,|0.2% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1355|,|prod_cat_911|,|2469|,|0.5% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1356|,|prod_cat_906|,|2489|,|0.2% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1357|,|prod_cat_906|,|2469|,|0.5% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1358|,|prod_cat_910|,|2489|,|0.2% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1359|,|prod_cat_910|,|2469|,|0.5% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1360|,|prod_cat_909|,|2489|,|0.2% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1361|,|prod_cat_909|,|2469|,|0.5% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1362|,|prod_cat_908|,|2489|,|0.2% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1363|,|prod_cat_908|,|2469|,|0.5% AC POWER SERIES TRANSDUCER|,|0.00|,|vendor_2|,|1|,||
+|product_1364|,|prod_cat_917|,,|Certificate of Conformance|,|0.00|,|vendor_2|,|1|,||
+|product_1365|,|prod_cat_546|,|IAC24|,|Base Model - FOR INDOOR INSTALLATIONS ONLY|,|0.00|,|vendor_2|,|1|,||
+|product_1366|,|prod_cat_570|,|AXF002|,|Integral Flowmeter/Remote Flowtube   Size 2.5mm (0.1 in)|,|2052.00|,|vendor_2|,|1|,||
+|product_1367|,|prod_cat_570|,|AXF005|,|Integral Flowmeter/Remote Flowtube   Size 5 mm (0.2 in.)|,|1958.00|,|vendor_2|,|1|,||
+|product_1368|,|prod_cat_570|,|AXF010|,|Integral Flowmeter/Remote Flowtube   Size 10 mm (0.4 in.)|,|1858.00|,|vendor_2|,|1|,||
+|product_1369|,|prod_cat_570|,|AXF015|,|Integral Flowmeter/Remote Flowtube   Size 15 mm (0.5 in.)|,|1840.00|,|vendor_2|,|1|,||
+|product_1370|,|prod_cat_570|,|AXF025|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 25 mm (1 in.)|,|1858.00|,|vendor_2|,|1|,||
+|product_1371|,|prod_cat_570|,|AXF040|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 40 mm (1.5 in.)|,|1970.00|,|vendor_2|,|1|,||
+|product_1372|,|prod_cat_570|,|AXF050|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 50 mm (2 in.)|,|2124.00|,|vendor_2|,|1|,||
+|product_1373|,|prod_cat_570|,|AXF080|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 80 mm (3 in.)|,|2388.00|,|vendor_2|,|1|,||
+|product_1374|,|prod_cat_570|,|AXF032|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 32 mm (1.25 in.)|,|1914.00|,|vendor_2|,|1|,||
+|product_1375|,|prod_cat_570|,|AXF065|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 65 mm (2.5 in.)|,|2256.00|,|vendor_2|,|1|,||
+|product_1376|,|prod_cat_570|,|AXF125|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 125 mm (5 in.)|,|2759.00|,|vendor_2|,|1|,||
+|product_1377|,|prod_cat_570|,|AXF100|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 100 mm (4 in.)|,|2465.00|,|vendor_2|,|1|,||
+|product_1378|,|prod_cat_570|,|AXF150|,|Integral Flowmeter/Remote Flowtube Ex-proof type Size  150 mm (6 in.)|,|3052.00|,|vendor_2|,|1|,||
+|product_1379|,|prod_cat_570|,|AXF200|,|Integral Flowmeter/Remote Flowtube Ex-proof type Size  200 mm (8 in.)|,|3623.00|,|vendor_2|,|1|,||
+|product_1380|,|prod_cat_570|,|AXF250|,|Integral Flowmeter/Remote Flowtube Ex-proof type Size  250 mm (10 in.)|,|4964.00|,|vendor_2|,|1|,||
+|product_1381|,|prod_cat_570|,|AXF300|,|Integral Flowmeter/Remote Flowtube Ex-proof type Size  300 mm (12 in.)|,|7385.00|,|vendor_2|,|1|,||
+|product_1382|,|prod_cat_570|,|AXF350|,|Integral Flowmeter/Remote Flowtube Ex-proof type Size  350 mm (14 in.)|,|11397.00|,|vendor_2|,|1|,||
+|product_1383|,|prod_cat_570|,|AXF400|,|Integral Flowmeter/Remote Flowtube Ex-proof type Size  400 mm (16 in.)|,|14104.00|,|vendor_2|,|1|,||
+|product_1384|,|prod_cat_571|,|AXF002|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 2.5mm (0.1 in)|,|2052.00|,|vendor_2|,|1|,||
+|product_1385|,|prod_cat_571|,|AXF005|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 5 mm (0.2 in.)|,|1958.00|,|vendor_2|,|1|,||
+|product_1386|,|prod_cat_571|,|AXF010|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 10 mm (0.4 in.)|,|1858.00|,|vendor_2|,|1|,||
+|product_1387|,|prod_cat_571|,|AXF015|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 15 mm (0.5 in.)|,|1840.00|,|vendor_2|,|1|,||
+|product_1388|,|prod_cat_571|,|AXF025|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 25 mm (1 in.)|,|1858.00|,|vendor_2|,|1|,||
+|product_1389|,|prod_cat_571|,|AXF040|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 40 mm (1.5 in.)|,|1970.00|,|vendor_2|,|1|,||
+|product_1390|,|prod_cat_571|,|AXF050|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 50 mm (2 in.)|,|2124.00|,|vendor_2|,|1|,||
+|product_1391|,|prod_cat_571|,|AXF080|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 80 mm (3 in.)|,|2388.00|,|vendor_2|,|1|,||
+|product_1392|,|prod_cat_571|,|AXF100|,|Integral Flowmeter/Remote Flowtube  Ex-proof type  Size 100 mm (4 in.)|,|2465.00|,|vendor_2|,|1|,||
+|product_1393|,|prod_cat_571|,|AXF150|,|Integral Flowmeter/Remote Flowtube Ex-proof type Size  150 mm (6 in.)|,|3052.00|,|vendor_2|,|1|,||
+|product_1394|,|prod_cat_571|,|AXF200|,|Integral Flowmeter/Remote Flowtube Ex-proof type Size  200 mm (8 in.)|,|3623.00|,|vendor_2|,|1|,||
+|product_1395|,|prod_cat_575|,|AXF015W|,|Remote Flowtube Submersible Type Size 15 mm (0.5 in.)|,|2118.00|,|vendor_2|,|1|,||
+|product_1396|,|prod_cat_575|,|AXF025W|,|Remote Flowtube Submersible Type Size 25 mm (1 in.)|,|2140.00|,|vendor_2|,|1|,||
+|product_1397|,|prod_cat_575|,|AXF040W|,|Remote Flowtube Submersible Type Size 40 mm (1.5 in.)|,|2258.00|,|vendor_2|,|1|,||
+|product_1398|,|prod_cat_575|,|AXF050W|,|Remote Flowtube Submersible Type Size 50 mm (2 in.)|,|2435.00|,|vendor_2|,|1|,||
+|product_1399|,|prod_cat_575|,|AXF032W|,|Remote Flowtube Submersible Type Size 32 mm (1.25 in.)|,|2200.00|,|vendor_2|,|1|,||
+|product_1400|,|prod_cat_575|,|AXF065W|,|Remote Flowtube Submersible Type Size 65 mm (2.5 in.)|,|2595.00|,|vendor_2|,|1|,||
+|product_1401|,|prod_cat_575|,|AXF125W|,|Remote Flowtube Submersible Type Size 125 mm (5 in.)|,|3019.00|,|vendor_2|,|1|,||
+|product_1402|,|prod_cat_575|,|AXF080W|,|Remote Flowtube Submersible Type Size 80 mm (3 in.)|,|2746.00|,|vendor_2|,|1|,||
+|product_1403|,|prod_cat_575|,|AXF100W|,|Remote Flowtube Submersible Type Size 100 mm (4 in.)|,|2828.00|,|vendor_2|,|1|,||
+|product_1404|,|prod_cat_575|,|AXF150W|,|Remote Flowtube Submersible Type Size 150 mm (6 in.)|,|3223.00|,|vendor_2|,|1|,||
+|product_1405|,|prod_cat_575|,|AXF200W|,|Remote Flowtube Submersible Type Size 200 mm (8 in.)|,|3871.00|,|vendor_2|,|1|,||
+|product_1406|,|prod_cat_575|,|AXF250W|,|Remote Flowtube Submersible Type Size 250 mm (10 in.)|,|4895.00|,|vendor_2|,|1|,||
+|product_1407|,|prod_cat_575|,|AXF300W|,|Remote Flowtube Submersible Type Size 300 mm (12 in.)|,|6975.00|,|vendor_2|,|1|,||
+|product_1408|,|prod_cat_575|,|AXF350W|,|Remote Flowtube Submersible Type Size 350 mm (14 in.)|,|10956.00|,|vendor_2|,|1|,||
+|product_1409|,|prod_cat_575|,|AXF400W|,|Remote Flowtube Submersible Type Size 400 mm (16 in.)|,|13586.00|,|vendor_2|,|1|,||
+|product_1410|,|prod_cat_572|,|AXF025H|,|Integral Flowmeter/Remote Flowtube Sanitary Type Size 25 mm (1 in.)|,|1899.00|,|vendor_2|,|1|,||
+|product_1411|,|prod_cat_572|,|AXF040H|,|Integral Flowmeter/Remote Flowtube Sanitary Type Size 40mm (1.5 in.)|,|2017.00|,|vendor_2|,|1|,||
+|product_1412|,|prod_cat_572|,|AXF050H|,|Integral Flowmeter/Remote Flowtube Sanitary Type Size 50 mm (2 in.)|,|2169.00|,|vendor_2|,|1|,||
+|product_1413|,|prod_cat_572|,|AXF015H|,|Integral Flowmeter/Remote Flowtube Sanitary Type Size 15 mm (0.5 in.)|,|1899.00|,|vendor_2|,|1|,||
+|product_1414|,|prod_cat_572|,|AXF080H|,|Integral Flowmeter/Remote Flowtube Sanitary Type Size 80 mm (3 in.)|,|2445.00|,|vendor_2|,|1|,||
+|product_1415|,|prod_cat_572|,|AXF100H|,|Integral Flowmeter/Remote Flowtube Sanitary Type Size 100 mm (4 in.)|,|2522.00|,|vendor_2|,|1|,||
+|product_1416|,|prod_cat_574|,|AXFA14|,|Remote Converter Explosion proof type|,|1383.00|,|vendor_2|,|1|,||
+|product_1417|,|prod_cat_573|,|AXFA11G|,|Remote Converter for remote flowtube size 2.5 to 1000 mm|,|2623.00|,|vendor_2|,|1|,||
+|product_1418|,|prod_cat_569|,|AXFC|,|Dedicated Signal Cable|,|0.00|,|vendor_2|,|1|,||
+|product_1419|,|prod_cat_561|,|AM012|,|Simulator|,|2689.00|,|vendor_2|,|1|,||
+|product_1420|,|prod_cat_561|,,|Documents|,|0.00|,|vendor_2|,|1|,||
+|product_1421|,|prod_cat_802|,|YPC4000|,|Calibrator - Base unit with three (3) modular sensor bays|,|1174.00|,|vendor_2|,|1|,||
+|product_1422|,|prod_cat_802|,|YPC4010|,|HART Communicator / Calibrator - Base calibrator unit with HART capability|,|3472.00|,|vendor_2|,|1|,||
+|product_1423|,|prod_cat_808|,|436101|,|1-Pen Continuous Writing Model|,|2050.00|,|vendor_2|,|1|,||
+|product_1424|,|prod_cat_808|,|436102|,|2-Pen Continuous Writing Model|,|2820.00|,|vendor_2|,|1|,||
+|product_1425|,|prod_cat_808|,|436103|,|3-Pen Continuous Writing Model|,|3395.00|,|vendor_2|,|1|,||
+|product_1426|,|prod_cat_808|,|436104|,|4-Pen Continuous Writing Model|,|4305.00|,|vendor_2|,|1|,||

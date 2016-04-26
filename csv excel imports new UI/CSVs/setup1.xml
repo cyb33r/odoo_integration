@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imports>
+    <format>
+        <type>csv</type>
+        <delimeter>,</delimeter>
+        <enclosure>"</enclosure>
+    </format>
+    <files>
+        <file>
+            <file_name>ProductCategories_test_00.csv</file_name>
+            <model_name>product_category</model_name>
+            <first_column_is_external_id>true</first_column_is_external_id>
+            <related_models>
+                <related_model>
+                    <related_model_name>product_category</related_model_name>
+                    <related_field>parent_id</related_field>
+                    <related_field_is_external_id>true</related_field_is_external_id>
+                </related_model>
+            </related_models>
+        </file>	
+		 <file>
+            <file_name>ProductCategories_test_00.csv</file_name>
+            <model_name>product_category</model_name>
+            <first_column_is_external_id>true</first_column_is_external_id>
+            <related_models>
+                <related_model>
+                    <related_model_name>product_category</related_model_name>
+                    <related_field>parent_id</related_field>
+                    <related_field_is_external_id>true</related_field_is_external_id>
+                </related_model>
+            </related_models>
+        </file>	
+		 <file>
+            <file_name>ProductCategories_test_00.csv</file_name>
+            <model_name>product_category</model_name>
+            <first_column_is_external_id>true</first_column_is_external_id>
+            <related_models>
+                <related_model>
+                    <related_model_name>product_category</related_model_name>
+                    <related_field>parent_id</related_field>
+                    <related_field_is_external_id>true</related_field_is_external_id>
+                </related_model>
+            </related_models>
+        </file>	
+    </files>
+</imports>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<directImports>
+		<mdbfilepath></mdbfilepath>
+		<host>192.168.1.230</host>
+	    <dbnameDirect>RM_v3</dbnameDirect>
+	    <usernameDirect>odoo</usernameDirect>
+	    <passwordDirect>odoo</passwordDirect>
+	</directImports>
+	<basicXMLImports>
+		<url>http://192.168.1.215:8069</url>
+	    <dbname>rmx_sandbox</dbname>
+	    <username>admin</username>
+	    <password>csctest</password>
+	</basicXMLImports>
+</config>

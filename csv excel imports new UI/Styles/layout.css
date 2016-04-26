@@ -1,0 +1,723 @@
+
+/*******************************************************
+*													   *
+*				basic_imports.php   				   *
+*													   *
+********************************************************/
+
+.basic_bgTranslucentLeft
+{
+	width : 440px;
+	height: 440px;
+	margin-top: 20px;
+	float: left;
+}
+
+.basic_bgTranslucentRight
+{
+	width : 440px;
+	height: 440px;
+	margin-top: 20px;
+	float: right;
+}
+
+.basic_bgTranslucentTop
+{
+	width : 900px;
+	height: 60px;
+}
+
+#basic_imports_refresh
+{
+	position: absolute;
+	width : 40px;
+	height: 40px;
+	background-color: rgb(139,103,255);
+	border-style: solid;
+	cursor: pointer;
+	right: 0;
+	top: 0;
+}
+
+#basic_imports_refresh:hover
+{
+	background-color: rgb(86,35,253);
+}
+
+#basic_imports_log
+{
+	position: absolute;
+	width : 40px;
+	height: 40px;
+	background-color: rgb(139,103,255);
+	border-style: solid;
+	cursor: pointer;
+	padding-left: 2px;
+	top: 0;
+	right: 0;
+	margin-right: 45px;
+}
+
+#basic_recordTable
+{
+	position: absolute;
+	width : 420px;
+	height: 360px;
+	table-layout: fixed;
+	font-size: 10px;
+	overflow: auto;
+	cursor: pointer;
+}
+
+
+#recordTable tr td
+{
+	border: 1px solid black;
+}
+
+#basic_imports_log:hover
+{
+	background-color: rgb(86,35,253);
+}
+
+
+#submit
+{
+	display: inline-block;
+	position: absolute;
+	margin-top: 540px;
+	margin-left: 340px;
+	width : 130px;
+	height: 80px;
+	background-color: rgb(139,103,255);
+	font-family: Courier;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	border-style: solid;
+	cursor: pointer;
+}
+
+#submit:hover
+{
+	background-color: rgb(86,35,253);
+}
+
+#formData
+{
+	position: absolute;
+	width: 880px;
+	height: 320px;
+	top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#top
+{
+	position: absolute;
+	width : 880px;
+	height: 40px;
+}
+
+#left
+{
+	display: inline-block;
+	width : 420px;
+	height: 440px;
+	float: left;
+	margin-top: 80px;
+}
+
+#right
+{
+	position: absolute;
+	display: inline-block;
+	width : 420px;
+	height: 440px;
+	float: right;
+	margin-top: 80px;
+	margin-left: 40px;
+}
+
+#bottom
+{
+	position: absolute;
+	display: inline-block;
+	width : 760px;
+	height: 100px;
+	margin-top: 20px;
+	left: 0;
+}
+
+#fileFormat
+{
+	position: relative;
+	margin-top: 20px;
+	left: 0;
+	width: 200px;
+	display: inline-block;
+	text-align: left;
+	vertical-align: top;
+}
+
+#csvFormatting
+{
+	height: 35px;
+	display: inline-block;
+	margin-left: 70px;
+}
+
+#fileList
+{
+	margin-top: 10px;
+	width: 420px;
+	height: 320px;
+	overflow: auto;
+}
+
+#addFile
+{
+	margin: 20px 0px 0px 320px; 
+	width: 100px;
+    height: 30px
+}
+
+#relatedModelList
+{
+	width: 415px;
+	height: 320px;
+	overflow: auto;
+	margin-top: 10px;
+	left: 0;
+	margin-left: 0px;
+}
+
+#operations
+{
+	position: absolute;
+	bottom: 5;
+    right: 5;
+}
+
+
+#statusMessage
+{
+	position: absolute;
+	width : 880px;
+	height: 100px;
+	margin-top: 360px;
+}
+
+#message
+{
+	position: relative;
+	width : 880px;
+	height: 100px;
+	text-align: center;
+	vertical-align: middle;
+	display: table-cell;
+}
+
+#basic_holder
+{
+	position: absolute;
+	top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 900px;
+    height: 640px;
+}
+
+/*******************************************************
+*													   *
+*				     xml_imports.php       			   *
+*													   *
+********************************************************/
+
+.xml_imports_bgTranslucentCenter
+{
+	width : 900px;
+	height: 540px;
+	float: left;
+}
+
+#xml_imports_holder
+{
+	position: absolute;
+	top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 900px;
+    height: 660px;
+}
+
+#xml_imports_submit
+{
+	display: inline-block;
+	position: absolute;
+	margin-top: 520px;
+	margin-left: 760px;
+	width : 130px;
+	height: 80px;
+	background-color: rgb(139,103,255);
+	font-family: Courier;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	border-style: solid;
+	cursor: pointer;
+}
+
+#xml_imports_submit:hover
+{
+	background-color: rgb(86,35,253);
+}
+
+#xml_imports_formData
+{
+	position: absolute;
+	width: 880px;
+	height: 640px;
+	top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#xml_status_holder
+{
+	position: absolute;
+	display: inline-block;
+	width : 760px;
+	height: 100px;
+	margin-top: 20px;
+	left: 0;
+}
+
+#xml_status
+{
+	position: relative;
+	width : 880px;
+	height: 100px;
+	text-align: center;
+	vertical-align: middle;
+	display: table-cell;
+	font-size: 12px;
+	overflow-y: auto;
+	word-wrap:break-word;
+}
+
+#fileList
+{
+	position: absolute;
+	margin-top: 60px;
+	width: 880px;
+	height: 440px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+#xml_imports_refresh
+{
+	position: absolute;
+	width : 40px;
+	height: 40px;
+	background-color: rgb(139,103,255);
+	border-style: solid;
+	cursor: pointer;
+}
+
+#xml_imports_refresh:hover
+{
+	background-color: rgb(86,35,253);
+}
+
+#xml_imports_log
+{
+	position: absolute;
+	width : 40px;
+	height: 40px;
+	background-color: rgb(139,103,255);
+	border-style: solid;
+	cursor: pointer;
+	padding-left: 2px;
+}
+
+#xml_imports_log:hover
+{
+	background-color: rgb(86,35,253);
+}
+
+#header
+{
+	width: 880px;
+	height: 40px;
+}
+
+#configHolder
+{
+	display: table-cell;
+	vertical-align: middle;
+	width: 600px;
+	height: 40px;
+}
+
+#generalInfoBg
+{
+	margin-top: 10px;
+	position: absolute;
+	width: 880px;
+	height: 40px;
+	background-color: #666666;
+	color: white;
+}
+
+#tableList
+{
+	table-layout: fixed;
+	overflow: hidden;
+	width: 880px;
+	font-size: 12px;
+}
+
+#tableList tr
+{
+	vertical-align: middle;
+	text-align: middle;
+	height: 100%;
+}
+
+#tableList td
+{
+	word-wrap:break-word;
+}
+
+#tableList tr:nth-child(odd)
+{
+	background-color: #CCCC99;
+}
+
+#tableList tr:nth-child(even)
+{
+	background-color: #FFFFFF;
+}
+
+#xml_refresh_holder
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 40px;
+	height: 40px;
+}
+
+#xml_log_holder
+{
+	position: absolute;
+	top: 0;
+	right: 45px;
+	width: 40px;
+	height: 40px;
+	background-color: red;
+}
+
+.progress
+{
+	width: 190px; 
+	height: 20px; 
+	margin-left: 5px;
+	background-color: gray;
+	border-radius: 6px;
+}
+
+.progress[value]::-webkit-progress-value { 
+	background-color: blue;
+	border-radius: 6px;
+	/*
+    background-image:
+	   -webkit-linear-gradient(-45deg, 
+	                           transparent 33%, rgba(0, 0, 0, .1) 33%, 
+	                           rgba(0,0, 0, .1) 66%, transparent 66%),
+	   -webkit-linear-gradient(top, 
+	                           rgba(255, 255, 255, .25), 
+	                           rgba(0, 0, 0, .25)),
+	   -webkit-linear-gradient(left, rgba(255, 255, 255, .25), 
+	                           rgba(0, 0, 0, .25));*/
+}
+
+.progress[value]::-webkit-progress-bar { 
+	background-color: gray;
+	border-radius: 6px;
+}
+
+
+.percent
+{
+	left:0;
+	margin-left: 50px;
+	position: absolute;
+	width: 130px; 
+	height: 300px;
+	background-color: yellow;
+}
+
+/*******************************************************
+*													   *
+*				     Server Setup          			   *
+*													   *
+********************************************************/
+
+/*
+#server_status_holder
+{
+	position: absolute;
+	width : 760px;
+	height: 100px;
+	margin-top: 20px;
+	left: 0;
+	background-color: red;
+}*/
+
+.server_bgTranslucentCenter
+{
+	width : 450px;
+	height: 300px;
+	margin: 0 auto;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+.server_bgTranslucentBottom
+{
+	width : 310px;
+	height: 100px;
+	margin-top: 20px;
+}
+
+
+#server_holder
+{
+	position: absolute;
+	top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 450px;
+    height: 300px;
+}
+
+#server_submit
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin-left: 310px;
+	margin-top: 320px;
+	width : 130px;
+	height: 80px;
+	background-color: rgb(139,103,255);
+	font-family: Courier;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	border-style: solid;
+	cursor: pointer;
+}
+
+#server_submit:hover
+{
+	background-color: rgb(86,35,253);
+}
+
+#server_statusMessage
+{
+	position: absolute;
+	width : 310px;
+	height: 100px;
+	top: 0;
+	margin-top: 320px;
+}
+
+#server_operations
+{
+	position: absolute;
+	bottom: 5;
+    right: 5;
+    background-color: red;
+}
+
+/*******************************************************
+*													   *
+*				     direct_imports.php       			   *
+*													   *
+********************************************************/
+
+#direct_imports_holder
+{
+	position: absolute;
+	top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 450px;
+    height: 100px;
+}
+
+.direct_imports_bgTranslucentCenter
+{
+	width : 450px;
+	height: 100px;
+	float: left;
+}
+
+#direct_imports_summary
+{
+	width : 430px;
+	height: 80px;
+	float: left;
+}
+
+#direct_imports_submit
+{
+	display: inline-block;
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 20px;
+	width : 130px;
+	height: 80px;
+	background-color: rgb(139,103,255);
+	font-family: Courier;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	border-style: solid;
+	cursor: pointer;
+}
+
+#direct_imports_submit:hover
+{
+	background-color: rgb(86,35,253);
+}
+
+#direct_imports_formData
+{
+	position: absolute;
+	width: 450px;
+	height: 100px;
+	top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#direct_status_holder
+{
+	position: absolute;
+	display: inline-block;
+	width : 550px;
+	height: 100px;
+	margin-top: 20px;
+	left: 0;
+}
+
+#direct_status
+{
+	position: relative;
+	width : 550px;
+	height: 100px;
+	text-align: center;
+	vertical-align: middle;
+	display: table-cell;
+	font-size: 12px;
+	overflow-y: auto;
+	word-wrap:break-word;
+}
+
+.bgTranslucentBottomDirect
+{
+	width : 590px;
+	height: 100px;
+	margin-top: 20px;
+}
+
+
+/*******************************************************
+*													   *
+*				     common              			   *
+*													   *
+********************************************************/
+
+ul {
+    list-style-type: none;
+    margin-top: -10;
+    margin-left: -10;
+    margin-right: -8;
+    padding: 0;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    background-color: rgb(168,168,168);
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: rgb(139,103,255);
+}
+
+body
+{
+	font-family: Courier;
+	font-weight: bold;
+	background-image: url("../Images/bg.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    filter: blur(1000px);
+}
+
+.bgTranslucentBase
+{
+	background-color: rgb(168,168,168);
+	opacity: .50;
+	box-shadow: -10px 10px 5px #888888;
+    display: inline-block;
+}
+
+.bgTranslucentBottom
+{
+	width : 760px;
+	height: 100px;
+	margin-top: 20px;
+}
+
