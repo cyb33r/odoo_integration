@@ -44,11 +44,14 @@
 	$pgConnection = pg_connect("host=$host port=5432 dbname=$dbName user=$user password=$password")
 						or die("Failed to connect to $dbName@$host");
 
-	$vendorID = 168;
+	//YOKOGAWA CORPORATION OF AMERICA
+	//$vendorID = 168;
+
 	$success = false;
 
 	pg_query("BEGIN");
-
+	$vendorResult = pg_query($pgConnection,"SELECT id FROM res_partner WHERE name ='YOKOGAWA CORPORATION OF AMERICA'");
+	$vendorID = intval(pg_fetch_result($vendorResult , 0, 'id'));
 	$resultClearData = pg_query($pgConnection,"SELECT f_yc_clean_tables()");
 	$resultClearTmpTable = pg_query($pgConnection, "SELECT f_yc_clean_temp_tables()");
 	$resultClearTmpConvertTable = pg_query($pgConnection,"SELECT f_yc_clean_temp_convert_tables()");
@@ -229,26 +232,27 @@
 							if($resultComponentTitles)
 							{
 								/*CONVERT TABLE DATA*/
-								if(pg_query($pgConenction,"SELECT f_yc_arrange_to_categories_convert($vendorID)"))
+								if(pg_query($pgConnection,"SELECT f_yc_arrange_to_categories_convert($vendorID)"))
 								{
-									if(pg_query($pgConenction,"SELECT f_yc_arrange_to_parts_convert($vendorID)"))
+									if(pg_query($pgConnection,"SELECT f_yc_arrange_to_parts_convert($vendorID)"))
 									{
-										if(pg_query($pgConenction,"SELECT f_yc_arrange_to_optioncategories_convert()"))
+										if(pg_query($pgConnection,"SELECT f_yc_arrange_to_optioncategories_convert()"))
 										{
-											if(pg_query($pgConenction,"SELECT f_yc_arrange_to_options_convert()"))
+											if(pg_query($pgConnection,"SELECT f_yc_arrange_to_options_convert()"))
 											{
-												if(pg_query($pgConenction,"SELECT f_yc_arrange_to_accessories_convert()"))
+												if(pg_query($pgConnection,"SELECT f_yc_arrange_to_accessories_convert()"))
 												{
+													//pg_query("COMMIT");
 													/*DUMP CONVERTED DATA*/
-													if(pg_query($pgConenction,"SELECT f_yc_convert_temp_categories($vendorID)"))
+													if(pg_query($pgConnection,"SELECT f_yc_convert_temp_categories($vendorID)"))
 													{
-														if(pg_query($pgConenction,"SELECT f_yc_convert_temp_parts($vendorID)"))
+														if(pg_query($pgConnection,"SELECT f_yc_convert_temp_parts($vendorID)"))
 														{
-															if(pg_query($pgConenction,"SELECT f_yc_convert_temp_optioncategories($vendorID)"))
+															if(pg_query($pgConnection,"SELECT f_yc_convert_temp_optioncategories($vendorID)"))
 															{
-																if(pg_query($pgConenction,"SELECT f_yc_convert_temp_options($vendorID)"))
+																if(pg_query($pgConnection,"SELECT f_yc_convert_temp_options($vendorID)"))
 																{
-																	if(pg_query($pgConenction,"SELECT f_yc_convert_temp_accessories($vendorID)"))
+																	if(pg_query($pgConnection,"SELECT f_yc_convert_temp_accessories($vendorID)"))
 																	{
 																		$success = true;
 																	}
@@ -272,10 +276,12 @@
 	if($success)
 	{
 		pg_query("COMMIT");
+		echo "DB Successfully dumped to $dbName@$host";
 	}
 	else
 	{
 		pg_query("ROLLBACK");
+		echo "Failed to dumped DB";
 	}
 			
 	pg_close($pgConnection);

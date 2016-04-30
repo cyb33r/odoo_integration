@@ -19,6 +19,8 @@
 
 				$("#direct_imports_submit").click(function(e)
 				{
+					var status = document.getElementById("direct_status");
+					status.innerHTML = "Dumping DB...";
 					var mdbDir = document.getElementById("mdbFilePath");
 					var connectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + mdbDir.innerHTML;
 					//var connectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + "C:\\Users\\Ecxelym-1\\Desktop\\INSTALLERS\\YCA Electronic Pricebook\\epb.mdb";
@@ -291,11 +293,14 @@
 	                        },
 	                        success: function(data)
 	                        {
-								statusMsg = data;
+								/*statusMsg = data;*/
+								var status = document.getElementById("direct_status");
+								status.innerHTML = data;
 	                        }
 	                         
 	                	});	
 					
+					return false;
 				});
 
 				$('#mdbFile').change( function(event) {
